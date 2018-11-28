@@ -79,9 +79,9 @@ rmmod  packet_gossiper
 
 # DOCUMENTATION
 
-https://www.tldp.org/LDP/lkmpg/2.6/html/x121.html
-https://www.paulkiddie.com/2009/10/creating-a-simple-hello-world-netfilter-module/
-https://www.paulkiddie.com/2009/11/creating-a-netfilter-kernel-module-which-filters-udp-packets/
-https://www.netfilter.org/documentation/HOWTO/netfilter-hacking-HOWTO.txt
-https://www.cyberciti.biz/tips/compiling-linux-kernel-module.html
-http://www.roman10.net/2011/07/31/how-to-write-a-linux-firewall-in-less-than-1000-lines-of-codeput-everything-together/ 
+* https://www.tldp.org/LDP/lkmpg/2.6/html/x121.html
+* https://www.paulkiddie.com/2009/10/creating-a-simple-hello-world-netfilter-module/
+* https://www.paulkiddie.com/2009/11/creating-a-netfilter-kernel-module-which-filters-udp-packets/
+* https://www.netfilter.org/documentation/HOWTO/netfilter-hacking-HOWTO.txt
+* https://www.cyberciti.biz/tips/compiling-linux-kernel-module.html
+* http://www.roman10.net/2011/07/31/how-to-write-a-linux-firewall-in-less-than-1000-lines-of-codeput-everything-together/ 
